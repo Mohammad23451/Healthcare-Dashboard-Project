@@ -1,0 +1,1 @@
+A Power BI project that explores healthcare billing trends across the UK. The dashboard presents key cost metrics, regional billing patterns, procedure‑level spending, and department activity. It also compares diagnosis categories across emergency, inpatient, and outpatient services. Built using Power BI with DAX, Power Query, and a structured data model.
